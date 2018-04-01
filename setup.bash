@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Xi ZHANG
+#written by X.ZHANG
 
 exec 2> /tmp/setup.log
 
